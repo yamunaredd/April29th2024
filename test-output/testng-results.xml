@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17420" started-at="2024-05-02T11:42:01Z" finished-at="2024-05-02T11:42:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17420" started-at="2024-05-02T11:42:01Z" finished-at="2024-05-02T11:42:18Z">
+      <class name="org.sample.FaceBook">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="preCondition" is-config="true" duration-ms="2565" started-at="2024-05-02T11:42:01Z" finished-at="2024-05-02T11:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="tc1(java.lang.String, java.lang.String)[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="tc1" duration-ms="2718" started-at="2024-05-02T11:42:03Z" finished-at="2024-05-02T11:42:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jiya123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jiya123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="startTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:03Z" finished-at="2024-05-02T11:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="endTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:06Z" finished-at="2024-05-02T11:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="startTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:06Z" finished-at="2024-05-02T11:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc4(java.lang.String, java.lang.String)[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="tc4" duration-ms="5299" started-at="2024-05-02T11:42:06Z" finished-at="2024-05-02T11:42:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jiya123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jiya123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc6(java.lang.String, java.lang.String)[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="tc6" duration-ms="1117" started-at="2024-05-02T11:42:11Z" finished-at="2024-05-02T11:42:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jiya123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jiya123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="startTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:11Z" finished-at="2024-05-02T11:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="endTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:11Z" finished-at="2024-05-02T11:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="endTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:12Z" finished-at="2024-05-02T11:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="startTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:12Z" finished-at="2024-05-02T11:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc7(java.lang.String, java.lang.String)[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="tc7" duration-ms="1278" started-at="2024-05-02T11:42:12Z" data-provider="datas" finished-at="2024-05-02T11:42:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kavi123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kavi123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc7(java.lang.String, java.lang.String)[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="tc7" duration-ms="1099" started-at="2024-05-02T11:42:14Z" data-provider="datas" finished-at="2024-05-02T11:42:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abi123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abi123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="startTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:14Z" finished-at="2024-05-02T11:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="endTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:14Z" finished-at="2024-05-02T11:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="endTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:15Z" finished-at="2024-05-02T11:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="tc7(java.lang.String, java.lang.String)[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="tc7" duration-ms="1039" started-at="2024-05-02T11:42:15Z" data-provider="datas" finished-at="2024-05-02T11:42:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siva123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[siva123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="startTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:15Z" finished-at="2024-05-02T11:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc7(java.lang.String, java.lang.String)[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="tc7" duration-ms="1046" started-at="2024-05-02T11:42:16Z" data-provider="datas" finished-at="2024-05-02T11:42:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="endTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:16Z" finished-at="2024-05-02T11:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="startTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:16Z" finished-at="2024-05-02T11:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="endTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:17Z" finished-at="2024-05-02T11:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="tc7(java.lang.String, java.lang.String)[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="tc7" duration-ms="1047" started-at="2024-05-02T11:42:17Z" data-provider="datas" finished-at="2024-05-02T11:42:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="startTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:17Z" finished-at="2024-05-02T11:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="postCondition" is-config="true" duration-ms="166" started-at="2024-05-02T11:42:18Z" finished-at="2024-05-02T11:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.sample.FaceBook@78c03f1f]" name="endTime" is-config="true" duration-ms="0" started-at="2024-05-02T11:42:18Z" finished-at="2024-05-02T11:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+      </class> <!-- org.sample.FaceBook -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

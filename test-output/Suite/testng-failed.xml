@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.sample.FailedAll"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="org.sample.FaceBook">
+        <methods>
+          <include name="preCondition"/>
+          <include name="endTime"/>
+          <include name="tc6"/>
+          <include name="startTime"/>
+          <include name="postCondition"/>
+        </methods>
+      </class> <!-- org.sample.FaceBook -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
